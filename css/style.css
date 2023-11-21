@@ -416,8 +416,16 @@ section{
     font-size: 2rem;
 }
 
-
-
+.mail{
+	display:block;
+	font-size:30px;
+	font-weight:800;
+	text-align:left;
+}
+.mailbox{
+	display:flex;
+	    width: 140%;
+}
 
 
 
